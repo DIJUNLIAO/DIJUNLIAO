@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DIJUNLIAO
-- 👀 I’m interested in many field, quatum physics, astronomy, neuroscience, cognitive science, psychology, aeronautics and aerospace, robot and etc
+- 👀 I’m interested in many field, quatum physics, astronomy, neuroscience, cognitive science, psychology, aeronautics and aerospace, robot, information security and etc
 - 🌱 I  just graduated from MRes Neurotechnology in Imperial College London
-- 📫 Now I'm focus on Neurophysical signal fields, but hope to make further progress in machine learning, neurocoding and quatum computation.
+- 📫 Now I'm focus on Neurophysical signal fields, but hope to make further progress in machine learning, neurocoding, quatum computation and robot.
