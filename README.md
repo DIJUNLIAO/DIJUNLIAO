@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DIJUNLIAO
 - 👀 I’m interested in many field, quatum physics, astronomy, neuroscience, cognitive science, psychology, aeronautics and aerospace, robot, information security and etc
 - 🌱 I just graduated from MRes Neurotechnology in Imperial College London. Now I am a system engineer at Philips.
-- 📫 I'm focus on neurophysical and biomedical signal processing fields, but hope to make further progress in machine learning, neurocoding, quatum computation and robot. And hope to gain a PhD position in brain-machine interface, medical robot or human neuralmuscular control and learning.
+- 📫 I'm focus on neurophysical and biomedical signal processing fields, but hope to make further progress in machine learning, neurocoding, quatum computation and robot. And hope to gain a PhD position in brain-machine interface, medical robot or human neuromuscular control and learning.
